@@ -1,6 +1,6 @@
 #api-transaction-rollback
 
-A module that provides an automatic rollback feature should any API call within series of API calls (transaction) throw an error.
+A module that provides an automatic rollback feature should any API call within a series of API calls (transaction) throw an error.
 
 ## Installation
 
