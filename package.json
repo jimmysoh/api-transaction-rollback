@@ -1,0 +1,29 @@
+{
+  "name": "api-transaction-rollback",
+  "version": "1.0.0",
+  "description": "module to execute api calls in a transactional way with rollback feature",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmysoh/api-transaction-rollback.git"
+  },
+  "keywords": [
+    "api",
+    "transaction",
+    "rollback",
+    "rest"
+  ],
+  "author": "jimmysoh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimmysoh/api-transaction-rollback/issues"
+  },
+  "homepage": "https://github.com/jimmysoh/api-transaction-rollback#readme",
+  "dependencies": {
+    "async-waterfall": "^0.1.5",
+    "request": "^2.88.0"
+  }
+}
